@@ -1,4 +1,10 @@
 /* VW Font*/
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Access-Control-Allow-Origin,Access-Control-Allow-Methods
+Content-Length: 172
+Content-Type: text/css
+
 @font-face {
 	font-family: 'VW Font';
 	src:
