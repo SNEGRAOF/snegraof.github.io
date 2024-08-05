@@ -2,17 +2,17 @@
 @font-face {
 	font-family: 'VW Font';
 	src:
-		url('https://snegraof.github.io/CustomFontsSAC/VWHead_Bold.otf') format('otf'),
-		url('https://snegraof.github.io/CustomFontsSAC/VWHead_BoldItalic.otf') format('otf'),
-		url('https://snegraof.github.io/CustomFontsSAC/VWHead_ExtraBold.otf') format('otf'),
+	url('https://snegraof.github.io/CustomFontsSAC/VWHead_Bold.otf') format('otf'),
+	url('https://snegraof.github.io/CustomFontsSAC/VWHead_BoldItalic.otf') format('otf'),
+	url('https://snegraof.github.io/CustomFontsSAC/VWHead_ExtraBold.otf') format('otf'),
    	url('https://snegraof.github.io/CustomFontsSAC/VWHead_Light.otf') format('otf'),
   	url('https://snegraof.github.io/CustomFontsSAC/VWHead_Regular.otf') format('otf'),
   	url('https://snegraof.github.io/CustomFontsSAC/VWHead_RegularItalic.otf') format('otf'),
-    url('https://snegraof.github.io/CustomFontsSAC/VWText_Bold.otf') format('otf'),
-    url('https://snegraof.github.io/CustomFontsSAC/VWText_BoldItalic.otf') format('otf'),
-    url('https://snegraof.github.io/CustomFontsSAC/VWText_Light.otf') format('otf'),
-    url('https://snegraof.github.io/CustomFontsSAC/VWText_Regular.otf') format('otf'),
-    url('https://snegraof.github.io/CustomFontsSAC/VWText_RegularItalic.otf') format('otf');
+        url('https://snegraof.github.io/CustomFontsSAC/VWText_Bold.otf') format('otf'),
+        url('https://snegraof.github.io/CustomFontsSAC/VWText_BoldItalic.otf') format('otf'),
+        url('https://snegraof.github.io/CustomFontsSAC/VWText_Light.otf') format('otf'),
+        url('https://snegraof.github.io/CustomFontsSAC/VWText_Regular.otf') format('otf'),
+        url('https://snegraof.github.io/CustomFontsSAC/VWText_RegularItalic.otf') format('otf');
 	font-weight: normal;
 	font-style: normal;
 }
